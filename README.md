@@ -19,7 +19,7 @@ Generate custom Solana wallet addresses with specific suffixes like `ray`, `pump
 ```bash
 # Clone and run
 git clone https://github.com/frogwiftools/vanity-generator.git
-cd frogwiftools/src/scripts
+cd vanity-generator
 
 # Make executable
 chmod +x vanity-generator.sh
