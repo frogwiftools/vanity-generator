@@ -4,7 +4,7 @@
 
 ## ![FrogWifTools Website](./assets/frogwiftools-website.png)
 
-Generate custom Solana wallet addresses with specific suffixes like `ray`, `pump`, `bonk`, or any custom pattern. Perfect for branding your token launches and creating memorable wallet addresses.
+Generate custom Solana wallet addresses with specific suffixes like `ray`, `pump`, `bonk`, or any custom pattern. Perfect for branding your token launches on pumpfun, raydium, bonk and more or even just creating memorable wallet addresses.
 
 ## Features
 
