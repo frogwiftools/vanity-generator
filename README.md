@@ -2,7 +2,7 @@
 
 > **Part of [FrogWifTools](https://frogwiftools.com)** - Serverless launch tools for Solana token creators
 
-## ![FrogWifTools Website](./frogwiftools-website.png)
+## ![FrogWifTools Website](./assets/frogwiftools-website.png)
 
 Generate custom Solana wallet addresses with specific suffixes like `ray`, `pump`, `bonk`, or any custom pattern. Perfect for branding your token launches and creating memorable wallet addresses.
 
@@ -144,7 +144,7 @@ This vanity generator is a standalone tool from **[FrogWifTools](https://frogwif
 | **Vanity Addresses**  | Generate branded wallet addresses (this tool!)  |
 | **P&L Tracking**      | Monitor profit and loss across your portfolio   |
 
-![FrogWifTools Dashboard](./frogwiftools-dashboard.png)
+![FrogWifTools Dashboard](./assets/frogwiftools-dashboard.png)
 
 ### Get Started
 
